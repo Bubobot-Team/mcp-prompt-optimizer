@@ -9,6 +9,7 @@
 ## ✨ Features
 
 ### 🎯 Basic Optimization Strategies
+
 - **Clarity**: Simplifies prompts for directness and precision
 - **Specificity**: Adds detailed constraints and requirements
 - **Chain of Thought**: Incorporates step-by-step reasoning
@@ -17,6 +18,7 @@
 - **Role-Based**: Adds expert role context
 
 ### 🚀 Advanced Optimization Strategies
+
 - **Tree of Thoughts (ToT)**: Multi-path reasoning with 74% success rate on complex tasks
 - **Constitutional AI**: Self-critique and alignment with safety principles
 - **Automatic Prompt Engineer (APE)**: AI-discovered optimal instruction patterns
@@ -27,7 +29,9 @@
 - **PromptWizard**: Feedback-driven self-evolving prompts
 
 ### 📋 Professional Domain Templates
+
 Production-ready templates across 11 domains:
+
 - **Business Analysis**: Competitive analysis frameworks
 - **Product Management**: User research synthesis
 - **Content Creation**: Technical blog posts with SEO optimization
@@ -140,37 +144,39 @@ python3 ai_docs/test_advanced.py
 
 ## 📊 Performance Benchmarks
 
-| Strategy | Use Case | Performance Improvement |
-|----------|----------|------------------------|
-| Tree of Thoughts | Complex reasoning | 70-74% success rate |
-| Medprompt | Classification tasks | 90%+ accuracy |
-| Self-Refine | Iterative improvement | 20% per iteration |
-| Constitutional AI | Safety alignment | High compliance |
-| Chain of Thought | Step-by-step tasks | 15-25% improvement |
+| Strategy          | Use Case              | Performance Improvement |
+| ----------------- | --------------------- | ----------------------- |
+| Tree of Thoughts  | Complex reasoning     | 70-74% success rate     |
+| Medprompt         | Classification tasks  | 90%+ accuracy           |
+| Self-Refine       | Iterative improvement | 20% per iteration       |
+| Constitutional AI | Safety alignment      | High compliance         |
+| Chain of Thought  | Step-by-step tasks    | 15-25% improvement      |
 
 ## 🔧 Available Tools
 
 ### Core Tools
+
 1. **analyze_prompt**: Analyzes prompt quality and identifies issues
 2. **optimize_prompt**: Applies specific optimization strategies
 3. **auto_optimize**: Automatically selects optimal strategy
 4. **get_prompt_template**: Returns basic templates
 
 ### Advanced Tools
+
 5. **advanced_optimize**: Applies research-backed strategies
 6. **get_domain_template**: Returns professional domain templates
 7. **list_domain_templates**: Lists available templates by domain
 
 ## 🎯 Strategy Selection Guide
 
-| Prompt Type | Recommended Strategy |
-|-------------|---------------------|
-| Complex problems | `tree_of_thoughts` |
-| Classification tasks | `medprompt` |
-| Safety-critical | `constitutional_ai` |
-| Vague requirements | `meta_prompting` |
-| Needs refinement | `self_refine` |
-| General optimization | `auto` |
+| Prompt Type          | Recommended Strategy |
+| -------------------- | -------------------- |
+| Complex problems     | `tree_of_thoughts`   |
+| Classification tasks | `medprompt`          |
+| Safety-critical      | `constitutional_ai`  |
+| Vague requirements   | `meta_prompting`     |
+| Needs refinement     | `self_refine`        |
+| General optimization | `auto`               |
 
 ## 🤝 Contributing
 
@@ -199,12 +205,14 @@ We welcome contributions! Please:
 ### Common Issues
 
 **MCP not working?**
+
 - Check Python version: `python3 --version` (requires 3.8+)
 - Verify MCP installation: `pip show mcp`
 - Check Claude Desktop logs
 - Restart Claude Desktop
 
 **Commands not recognized?**
+
 - Verify configuration file location
 - Check file paths in configuration
 - Run setup script again
@@ -238,9 +246,9 @@ If you use this tool in your research or projects, please cite:
 ```bibtex
 @software{mcp_prompt_optimizer,
   title={MCP Prompt Optimizer: Research-Backed Prompt Optimization for AI Systems},
-  author={BoldLab},
+  author={Bubobot},
   year={2024},
-  url={https://github.com/boldlab/mcp-prompt-optimizer}
+  url={https://github.com/Bubobot-Team/mcp-prompt-optimizer}
 }
 ```
 
@@ -248,4 +256,4 @@ If you use this tool in your research or projects, please cite:
 
 **Built with ❤️ for the AI community**
 
-For questions, issues, or contributions, please visit our [GitHub repository](https://github.com/boldlab/mcp-prompt-optimizer).
+For questions, issues, or contributions, please visit our [GitHub repository](https://github.com/Bubobot-Team/mcp-prompt-optimizer).
