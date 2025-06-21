@@ -1,0 +1,15 @@
+[project]
+name = "mcp-prompt-optimizer"
+version = "1.0.0"
+description = "MCP server for optimizing AI prompts"
+requires-python = ">=3.8"
+dependencies = [
+    "mcp>=0.1.0",
+]
+
+[project.scripts]
+mcp-prompt-optimizer = "prompt_optimizer:main"
+
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"

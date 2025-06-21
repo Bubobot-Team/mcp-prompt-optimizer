@@ -1,0 +1,538 @@
+[
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "platform",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "platform",
+        "description": "platform",
+        "detail": "platform",
+        "documentation": {}
+    },
+    {
+        "label": "subprocess",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "subprocess",
+        "description": "subprocess",
+        "detail": "subprocess",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "PromptOptimizer",
+        "importPath": "prompt_optimizer",
+        "description": "prompt_optimizer",
+        "isExtraImport": true,
+        "detail": "prompt_optimizer",
+        "documentation": {}
+    },
+    {
+        "label": "OptimizationStrategy",
+        "importPath": "prompt_optimizer",
+        "description": "prompt_optimizer",
+        "isExtraImport": true,
+        "detail": "prompt_optimizer",
+        "documentation": {}
+    },
+    {
+        "label": "PromptOptimizer",
+        "importPath": "prompt_optimizer",
+        "description": "prompt_optimizer",
+        "isExtraImport": true,
+        "detail": "prompt_optimizer",
+        "documentation": {}
+    },
+    {
+        "label": "OptimizationStrategy",
+        "importPath": "prompt_optimizer",
+        "description": "prompt_optimizer",
+        "isExtraImport": true,
+        "detail": "prompt_optimizer",
+        "documentation": {}
+    },
+    {
+        "label": "AdvancedPromptOptimizer",
+        "importPath": "advanced_strategies",
+        "description": "advanced_strategies",
+        "isExtraImport": true,
+        "detail": "advanced_strategies",
+        "documentation": {}
+    },
+    {
+        "label": "AdvancedStrategy",
+        "importPath": "advanced_strategies",
+        "description": "advanced_strategies",
+        "isExtraImport": true,
+        "detail": "advanced_strategies",
+        "documentation": {}
+    },
+    {
+        "label": "AdvancedPromptOptimizer",
+        "importPath": "advanced_strategies",
+        "description": "advanced_strategies",
+        "isExtraImport": true,
+        "detail": "advanced_strategies",
+        "documentation": {}
+    },
+    {
+        "label": "AdvancedStrategy",
+        "importPath": "advanced_strategies",
+        "description": "advanced_strategies",
+        "isExtraImport": true,
+        "detail": "advanced_strategies",
+        "documentation": {}
+    },
+    {
+        "label": "DomainTemplates",
+        "importPath": "domain_templates",
+        "description": "domain_templates",
+        "isExtraImport": true,
+        "detail": "domain_templates",
+        "documentation": {}
+    },
+    {
+        "label": "DomainTemplates",
+        "importPath": "domain_templates",
+        "description": "domain_templates",
+        "isExtraImport": true,
+        "detail": "domain_templates",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "Enum",
+        "importPath": "enum",
+        "description": "enum",
+        "isExtraImport": true,
+        "detail": "enum",
+        "documentation": {}
+    },
+    {
+        "label": "Enum",
+        "importPath": "enum",
+        "description": "enum",
+        "isExtraImport": true,
+        "detail": "enum",
+        "documentation": {}
+    },
+    {
+        "label": "asyncio",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "asyncio",
+        "description": "asyncio",
+        "detail": "asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "Server",
+        "importPath": "mcp.server",
+        "description": "mcp.server",
+        "isExtraImport": true,
+        "detail": "mcp.server",
+        "documentation": {}
+    },
+    {
+        "label": "stdio_server",
+        "importPath": "mcp.server.stdio",
+        "description": "mcp.server.stdio",
+        "isExtraImport": true,
+        "detail": "mcp.server.stdio",
+        "documentation": {}
+    },
+    {
+        "label": "Tool",
+        "importPath": "mcp.types",
+        "description": "mcp.types",
+        "isExtraImport": true,
+        "detail": "mcp.types",
+        "documentation": {}
+    },
+    {
+        "label": "TextContent",
+        "importPath": "mcp.types",
+        "description": "mcp.types",
+        "isExtraImport": true,
+        "detail": "mcp.types",
+        "documentation": {}
+    },
+    {
+        "label": "get_config_path",
+        "kind": 2,
+        "importPath": "ai_docs.setup_interactive",
+        "description": "ai_docs.setup_interactive",
+        "peekOfCode": "def get_config_path():\n    \"\"\"Get the Claude Desktop config path based on OS\"\"\"\n    system = platform.system()\n    if system == \"Darwin\":  # macOS\n        return Path.home() / \"Library\" / \"Application Support\" / \"Claude\" / \"claude_desktop_config.json\"\n    elif system == \"Windows\":\n        return Path(os.environ[\"APPDATA\"]) / \"Claude\" / \"claude_desktop_config.json\"\n    else:  # Linux\n        return Path.home() / \".config\" / \"Claude\" / \"claude_desktop_config.json\"\ndef check_dependencies():",
+        "detail": "ai_docs.setup_interactive",
+        "documentation": {}
+    },
+    {
+        "label": "check_dependencies",
+        "kind": 2,
+        "importPath": "ai_docs.setup_interactive",
+        "description": "ai_docs.setup_interactive",
+        "peekOfCode": "def check_dependencies():\n    \"\"\"Check if required dependencies are installed\"\"\"\n    try:\n        import mcp\n        print(\"✓ MCP library is installed\")\n        return True\n    except ImportError:\n        print(\"✗ MCP library not found\")\n        return False\ndef install_dependencies():",
+        "detail": "ai_docs.setup_interactive",
+        "documentation": {}
+    },
+    {
+        "label": "install_dependencies",
+        "kind": 2,
+        "importPath": "ai_docs.setup_interactive",
+        "description": "ai_docs.setup_interactive",
+        "peekOfCode": "def install_dependencies():\n    \"\"\"Install required dependencies\"\"\"\n    print(\"\\nInstalling dependencies...\")\n    try:\n        subprocess.check_call([sys.executable, \"-m\", \"pip\", \"install\", \"mcp\"])\n        print(\"✓ Dependencies installed successfully\")\n        return True\n    except subprocess.CalledProcessError:\n        print(\"✗ Failed to install dependencies\")\n        print(\"Please run manually: pip install mcp\")",
+        "detail": "ai_docs.setup_interactive",
+        "documentation": {}
+    },
+    {
+        "label": "setup_config",
+        "kind": 2,
+        "importPath": "ai_docs.setup_interactive",
+        "description": "ai_docs.setup_interactive",
+        "peekOfCode": "def setup_config():\n    \"\"\"Setup Claude Desktop configuration\"\"\"\n    config_path = get_config_path()\n    config_dir = config_path.parent\n    # Create directory if it doesn't exist\n    config_dir.mkdir(parents=True, exist_ok=True)\n    # Get current script directory\n    mcp_path = str(Path(__file__).parent / \"prompt_optimizer.py\")\n    # Load existing config or create new\n    if config_path.exists():",
+        "detail": "ai_docs.setup_interactive",
+        "documentation": {}
+    },
+    {
+        "label": "test_mcp_server",
+        "kind": 2,
+        "importPath": "ai_docs.setup_interactive",
+        "description": "ai_docs.setup_interactive",
+        "peekOfCode": "def test_mcp_server():\n    \"\"\"Test if the MCP server can run\"\"\"\n    print(\"\\nTesting MCP server...\")\n    mcp_path = Path(__file__).parent / \"prompt_optimizer.py\"\n    try:\n        # Just check if the file can be imported\n        spec = __import__('prompt_optimizer')\n        print(\"✓ MCP server can be loaded\")\n        return True\n    except Exception as e:",
+        "detail": "ai_docs.setup_interactive",
+        "documentation": {}
+    },
+    {
+        "label": "print_usage_examples",
+        "kind": 2,
+        "importPath": "ai_docs.setup_interactive",
+        "description": "ai_docs.setup_interactive",
+        "peekOfCode": "def print_usage_examples():\n    \"\"\"Print usage examples\"\"\"\n    print(\"\\n\" + \"=\"*60)\n    print(\"SETUP COMPLETE! 🎉\")\n    print(\"=\"*60)\n    print(\"\\n📝 USAGE EXAMPLES:\")\n    print(\"\\n1. Basic Commands:\")\n    print(\"   • Analyze this prompt: 'write a blog post'\")\n    print(\"   • Optimize this prompt for clarity: 'help me code'\")\n    print(\"   • Auto-optimize: 'explain machine learning'\")",
+        "detail": "ai_docs.setup_interactive",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "ai_docs.setup_interactive",
+        "description": "ai_docs.setup_interactive",
+        "peekOfCode": "def main():\n    \"\"\"Main setup function\"\"\"\n    print(\"🚀 MCP Prompt Optimizer Setup for Claude Desktop\")\n    print(\"=\"*60)\n    # Check Python version\n    print(f\"Python version: {sys.version}\")\n    # Check and install dependencies\n    if not check_dependencies():\n        if not install_dependencies():\n            print(\"\\n⚠️  Please install dependencies manually and run this script again\")",
+        "detail": "ai_docs.setup_interactive",
+        "documentation": {}
+    },
+    {
+        "label": "test_basic_features",
+        "kind": 2,
+        "importPath": "ai_docs.test_advanced",
+        "description": "ai_docs.test_advanced",
+        "peekOfCode": "def test_basic_features():\n    \"\"\"Test original basic features\"\"\"\n    print(\"=== Testing Basic Features ===\\n\")\n    optimizer = PromptOptimizer()\n    # Test 1: Analyze a vague prompt\n    prompt = \"write something about AI\"\n    analysis = optimizer.analyze_prompt(prompt)\n    print(f\"Analysis of '{prompt}':\")\n    print(f\"Score: {analysis.score}\")\n    print(f\"Issues: {analysis.issues}\")",
+        "detail": "ai_docs.test_advanced",
+        "documentation": {}
+    },
+    {
+        "label": "test_advanced_strategies",
+        "kind": 2,
+        "importPath": "ai_docs.test_advanced",
+        "description": "ai_docs.test_advanced",
+        "peekOfCode": "def test_advanced_strategies():\n    \"\"\"Test new advanced optimization strategies\"\"\"\n    print(\"\\n=== Testing Advanced Strategies ===\\n\")\n    advanced_optimizer = AdvancedPromptOptimizer()\n    # Test Tree of Thoughts\n    prompt = \"solve the problem of distributing tasks across multiple servers\"\n    result = advanced_optimizer.apply_tree_of_thoughts(prompt)\n    print(f\"Tree of Thoughts Optimization:\")\n    print(f\"Strategy: {result.strategy}\")\n    print(f\"Confidence: {result.confidence}\")",
+        "detail": "ai_docs.test_advanced",
+        "documentation": {}
+    },
+    {
+        "label": "test_domain_templates",
+        "kind": 2,
+        "importPath": "ai_docs.test_advanced",
+        "description": "ai_docs.test_advanced",
+        "peekOfCode": "def test_domain_templates():\n    \"\"\"Test domain-specific templates\"\"\"\n    print(\"\\n=== Testing Domain Templates ===\\n\")\n    domain_templates = DomainTemplates()\n    # List all templates\n    all_templates = domain_templates.list_templates()\n    print(f\"Total available templates: {len(all_templates)}\")\n    # Group by domain\n    domains = {}\n    for name in all_templates:",
+        "detail": "ai_docs.test_advanced",
+        "documentation": {}
+    },
+    {
+        "label": "test_auto_strategy_selection",
+        "kind": 2,
+        "importPath": "ai_docs.test_advanced",
+        "description": "ai_docs.test_advanced",
+        "peekOfCode": "def test_auto_strategy_selection():\n    \"\"\"Test automatic strategy selection\"\"\"\n    print(\"\\n=== Testing Auto Strategy Selection ===\\n\")\n    advanced_optimizer = AdvancedPromptOptimizer()\n    test_prompts = [\n        (\"solve this optimization problem\", \"Expected: Tree of Thoughts\"),\n        (\"is this content appropriate?\", \"Expected: Constitutional AI\"),\n        (\"what is machine learning?\", \"Expected: Meta-Prompting\"),\n        (\"analyze sales data for Q4\", \"Expected: APE or Medprompt\"),\n        (\"improve this paragraph\", \"Expected: Self-Refine\")",
+        "detail": "ai_docs.test_advanced",
+        "documentation": {}
+    },
+    {
+        "label": "test_smart_silencing_integration",
+        "kind": 2,
+        "importPath": "ai_docs.test_advanced",
+        "description": "ai_docs.test_advanced",
+        "peekOfCode": "def test_smart_silencing_integration():\n    \"\"\"Test integration with Smart Silencing system\"\"\"\n    print(\"\\n=== Testing Smart Silencing Integration ===\\n\")\n    # Test if smart silencing modules exist\n    try:\n        from src.prompts.advanced_optimizer import SmartSilencingPromptOptimizer\n        optimizer = SmartSilencingPromptOptimizer()\n        # Test rule analysis optimization\n        result = optimizer.optimize_prompt(\n            prompt_type=\"rule_analysis\",",
+        "detail": "ai_docs.test_advanced",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "ai_docs.test_advanced",
+        "description": "ai_docs.test_advanced",
+        "peekOfCode": "def main():\n    \"\"\"Run all tests\"\"\"\n    print(\"Advanced MCP Prompt Optimizer Test Suite\")\n    print(\"=\" * 50)\n    test_basic_features()\n    test_advanced_strategies()\n    test_domain_templates()\n    test_auto_strategy_selection()\n    test_smart_silencing_integration()\n    print(\"\\n\" + \"=\" * 50)",
+        "detail": "ai_docs.test_advanced",
+        "documentation": {}
+    },
+    {
+        "label": "AdvancedStrategy",
+        "kind": 6,
+        "importPath": "advanced_strategies",
+        "description": "advanced_strategies",
+        "peekOfCode": "class AdvancedStrategy(Enum):\n    TREE_OF_THOUGHTS = \"tree_of_thoughts\"\n    CONSTITUTIONAL_AI = \"constitutional_ai\"\n    AUTOMATIC_PROMPT_ENGINEER = \"automatic_prompt_engineer\"\n    META_PROMPTING = \"meta_prompting\"\n    SELF_REFINE = \"self_refine\"\n    TEXTGRAD = \"textgrad\"\n    MEDPROMPT = \"medprompt\"\n    PROMPT_WIZARD = \"prompt_wizard\"\n@dataclass",
+        "detail": "advanced_strategies",
+        "documentation": {}
+    },
+    {
+        "label": "OptimizationResult",
+        "kind": 6,
+        "importPath": "advanced_strategies",
+        "description": "advanced_strategies",
+        "peekOfCode": "class OptimizationResult:\n    strategy: str\n    original: str\n    optimized: str\n    explanation: str\n    performance_metrics: Dict[str, Any]\n    confidence: float\nclass AdvancedPromptOptimizer:\n    \"\"\"Implements cutting-edge prompt optimization strategies\"\"\"\n    def __init__(self):",
+        "detail": "advanced_strategies",
+        "documentation": {}
+    },
+    {
+        "label": "AdvancedPromptOptimizer",
+        "kind": 6,
+        "importPath": "advanced_strategies",
+        "description": "advanced_strategies",
+        "peekOfCode": "class AdvancedPromptOptimizer:\n    \"\"\"Implements cutting-edge prompt optimization strategies\"\"\"\n    def __init__(self):\n        self.strategies = {\n            AdvancedStrategy.TREE_OF_THOUGHTS: self.apply_tree_of_thoughts,\n            AdvancedStrategy.CONSTITUTIONAL_AI: self.apply_constitutional_ai,\n            AdvancedStrategy.AUTOMATIC_PROMPT_ENGINEER: self.apply_ape,\n            AdvancedStrategy.META_PROMPTING: self.apply_meta_prompting,\n            AdvancedStrategy.SELF_REFINE: self.apply_self_refine,\n            AdvancedStrategy.TEXTGRAD: self.apply_textgrad,",
+        "detail": "advanced_strategies",
+        "documentation": {}
+    },
+    {
+        "label": "PromptTemplate",
+        "kind": 6,
+        "importPath": "domain_templates",
+        "description": "domain_templates",
+        "peekOfCode": "class PromptTemplate:\n    \"\"\"Represents a domain-specific prompt template\"\"\"\n    name: str\n    domain: str\n    template: str\n    variables: List[str]\n    example: str\n    best_practices: Optional[List[str]] = None\n    examples: Optional[List[str]] = None\nclass DomainTemplates:",
+        "detail": "domain_templates",
+        "documentation": {}
+    },
+    {
+        "label": "DomainTemplates",
+        "kind": 6,
+        "importPath": "domain_templates",
+        "description": "domain_templates",
+        "peekOfCode": "class DomainTemplates:\n    \"\"\"Collection of comprehensive domain-specific templates for professional use\"\"\"\n    def __init__(self):\n        self.templates: Dict[str, PromptTemplate] = {}\n        self._load_professional_templates()\n        self._load_additional_use_cases()\n    def _load_professional_templates(self):\n        \"\"\"Load comprehensive professional templates with advanced features\"\"\"\n        professional_templates = {\n            \"competitor_analysis\": {",
+        "detail": "domain_templates",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "examples",
+        "description": "examples",
+        "peekOfCode": "def main():\n    optimizer = PromptOptimizer()\n    # Example 1: Analyze a vague prompt\n    print(\"=== Example 1: Analyzing a vague prompt ===\")\n    vague_prompt = \"write something about AI\"\n    analysis = optimizer.analyze_prompt(vague_prompt)\n    print(f\"Prompt: {vague_prompt}\")\n    print(f\"Score: {analysis.score}\")\n    print(f\"Issues: {analysis.issues}\")\n    print(f\"Suggestions: {analysis.suggestions}\")",
+        "detail": "examples",
+        "documentation": {}
+    },
+    {
+        "label": "OptimizationStrategy",
+        "kind": 6,
+        "importPath": "prompt_optimizer",
+        "description": "prompt_optimizer",
+        "peekOfCode": "class OptimizationStrategy(Enum):\n    CLARITY = \"clarity\"\n    SPECIFICITY = \"specificity\"\n    CHAIN_OF_THOUGHT = \"chain_of_thought\"\n    FEW_SHOT = \"few_shot\"\n    STRUCTURED_OUTPUT = \"structured_output\"\n    ROLE_BASED = \"role_based\"\n    CONSTRAINTS = \"constraints\"  # New strategy\n    TONE_ADJUSTMENT = \"tone_adjustment\"  # New strategy\n@dataclass",
+        "detail": "prompt_optimizer",
+        "documentation": {}
+    },
+    {
+        "label": "PromptAnalysis",
+        "kind": 6,
+        "importPath": "prompt_optimizer",
+        "description": "prompt_optimizer",
+        "peekOfCode": "class PromptAnalysis:\n    issues: List[str]\n    suggestions: List[str]\n    score: float\nclass PromptOptimizer:\n    \"\"\"Core logic for prompt optimization\"\"\"\n    def analyze_prompt(self, prompt: str) -> PromptAnalysis:\n        \"\"\"Analyze a prompt for common issues\"\"\"\n        issues = []\n        suggestions = []",
+        "detail": "prompt_optimizer",
+        "documentation": {}
+    },
+    {
+        "label": "PromptOptimizer",
+        "kind": 6,
+        "importPath": "prompt_optimizer",
+        "description": "prompt_optimizer",
+        "peekOfCode": "class PromptOptimizer:\n    \"\"\"Core logic for prompt optimization\"\"\"\n    def analyze_prompt(self, prompt: str) -> PromptAnalysis:\n        \"\"\"Analyze a prompt for common issues\"\"\"\n        issues = []\n        suggestions = []\n        score = 100.0\n        # Check for vagueness\n        vague_words = [\"thing\", \"stuff\", \"something\",\n                       \"whatever\", \"somehow\", \"etc.\", \"and so on\"]",
+        "detail": "prompt_optimizer",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "prompt_optimizer",
+        "description": "prompt_optimizer",
+        "peekOfCode": "app = Server(\"prompt-optimizer\")\noptimizer = PromptOptimizer()\nadvanced_optimizer = AdvancedPromptOptimizer()\ndomain_templates = DomainTemplates()\n@app.list_tools()\nasync def list_tools() -> List[Tool]:\n    \"\"\"List available tools\"\"\"\n    return [\n        Tool(\n            name=\"analyze_prompt\",",
+        "detail": "prompt_optimizer",
+        "documentation": {}
+    },
+    {
+        "label": "optimizer",
+        "kind": 5,
+        "importPath": "prompt_optimizer",
+        "description": "prompt_optimizer",
+        "peekOfCode": "optimizer = PromptOptimizer()\nadvanced_optimizer = AdvancedPromptOptimizer()\ndomain_templates = DomainTemplates()\n@app.list_tools()\nasync def list_tools() -> List[Tool]:\n    \"\"\"List available tools\"\"\"\n    return [\n        Tool(\n            name=\"analyze_prompt\",\n            description=\"Analyze a prompt for common issues and get improvement suggestions\",",
+        "detail": "prompt_optimizer",
+        "documentation": {}
+    },
+    {
+        "label": "advanced_optimizer",
+        "kind": 5,
+        "importPath": "prompt_optimizer",
+        "description": "prompt_optimizer",
+        "peekOfCode": "advanced_optimizer = AdvancedPromptOptimizer()\ndomain_templates = DomainTemplates()\n@app.list_tools()\nasync def list_tools() -> List[Tool]:\n    \"\"\"List available tools\"\"\"\n    return [\n        Tool(\n            name=\"analyze_prompt\",\n            description=\"Analyze a prompt for common issues and get improvement suggestions\",\n            inputSchema={",
+        "detail": "prompt_optimizer",
+        "documentation": {}
+    },
+    {
+        "label": "domain_templates",
+        "kind": 5,
+        "importPath": "prompt_optimizer",
+        "description": "prompt_optimizer",
+        "peekOfCode": "domain_templates = DomainTemplates()\n@app.list_tools()\nasync def list_tools() -> List[Tool]:\n    \"\"\"List available tools\"\"\"\n    return [\n        Tool(\n            name=\"analyze_prompt\",\n            description=\"Analyze a prompt for common issues and get improvement suggestions\",\n            inputSchema={\n                \"type\": \"object\",",
+        "detail": "prompt_optimizer",
+        "documentation": {}
+    }
+]
