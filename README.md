@@ -53,8 +53,15 @@ Production-ready templates across 11 domains:
 git clone <repository-url>
 cd mcp-prompt-optimizer
 
+# Create virtual environment (recommended)
+python3 -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+
 # Install dependencies
-pip install mcp
+./install.sh
+
+# Or install manually
+pip install -r requirements.txt
 
 # Configure Claude Desktop
 python3 setup_interactive.py
@@ -65,7 +72,9 @@ python3 setup_interactive.py
 Add to your Claude Desktop configuration file:
 
 **macOS**: `~/Library/Application Support/Claude/claude_desktop_config.json`
+
 **Windows**: `%APPDATA%\Claude\claude_desktop_config.json`
+
 **Linux**: `~/.config/Claude/claude_desktop_config.json`
 
 ```json
@@ -195,6 +204,7 @@ We welcome contributions! Please:
 **MCP not working?**
 
 - Check Python version: `python3 --version` (requires 3.8+)
+- Install dependencies: Run `./install.sh` or `pip install -r requirements.txt`
 - Verify MCP installation: `pip show mcp`
 - Check Claude Desktop logs
 - Restart Claude Desktop
