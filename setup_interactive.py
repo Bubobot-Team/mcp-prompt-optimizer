@@ -131,7 +131,6 @@ def print_usage_examples():
     print("   • List all domain templates")
     
     print("\n⚠️  IMPORTANT: Restart Claude Desktop to load the MCP server")
-    print("\n📚 Full documentation: CLAUDE_DESKTOP_GUIDE.md")
 
 def main():
     """Main setup function"""
