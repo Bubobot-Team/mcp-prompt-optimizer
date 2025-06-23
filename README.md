@@ -57,7 +57,7 @@ cd mcp-prompt-optimizer
 pip install mcp
 
 # Configure Claude Desktop
-python3 ai_docs/setup_interactive.py
+python3 setup_interactive.py
 ```
 
 ### Manual Configuration
@@ -121,11 +121,8 @@ mcp-prompt-optimizer/
 ├── prompt_optimizer.py      # Main MCP server
 ├── advanced_strategies.py   # Research-backed optimization strategies
 ├── domain_templates.py      # Professional domain templates
-├── ai_docs/                 # Documentation and tools
-│   ├── setup_interactive.py    # Automated setup script
-│   ├── test_advanced.py        # Comprehensive test suite
-│   └── *.md                    # Documentation files
-├── CLAUDE.md               # Project guidance for AI
+├── examples.py              # Usage examples and demonstrations
+├── setup_interactive.py     # Automated setup script
 └── README.md               # This file
 ```
 
@@ -135,11 +132,8 @@ mcp-prompt-optimizer/
 # Run basic tests
 ./test.sh
 
-# Run advanced feature tests
-python3 ai_docs/test_advanced.py
-
-# Run comprehensive test suite
-./ai_docs/test_advanced.sh
+# Run usage examples
+python3 examples.py
 ```
 
 ## 📊 Performance Benchmarks
@@ -192,7 +186,7 @@ We welcome contributions! Please:
 
 - **New Strategy**: Add to `advanced_strategies.py`
 - **New Template**: Add to `domain_templates.py`
-- **Tests**: Add to `ai_docs/test_advanced.py`
+- **Examples**: Add to `examples.py`
 
 ## 🐛 Troubleshooting
 
