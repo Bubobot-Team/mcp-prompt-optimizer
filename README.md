@@ -194,12 +194,6 @@ We welcome contributions! Please:
 - **New Template**: Add to `domain_templates.py`
 - **Tests**: Add to `ai_docs/test_advanced.py`
 
-## 📚 Documentation
-
-- **[Setup Guide](./ai_docs/CLAUDE_DESKTOP_GUIDE.md)** - Detailed installation instructions
-- **[Examples](./ai_docs/EXAMPLES.md)** - Usage examples and workflows
-- **[Research](./ai_docs/RESEARCH.md)** - Academic sources and benchmarks
-
 ## 🐛 Troubleshooting
 
 ### Common Issues
