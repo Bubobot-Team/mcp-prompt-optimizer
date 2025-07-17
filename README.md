@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/bubobot-team-mcp-prompt-optimizer-badge.png)](https://mseep.ai/app/bubobot-team-mcp-prompt-optimizer)
+
 # MCP Prompt Optimizer
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
